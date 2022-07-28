@@ -1,0 +1,43 @@
+id,name,cost,counter,type,effect,ki_cost
+97,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+98,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+99,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+100,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+101,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+102,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+103,Ataque extra,2,⚔,Mejora, + 🗡,1
+104,Ataque extra,2,⚔,Mejora, + 🗡,1
+105,Ataque extra,2,⚔,Mejora, + 🗡,1
+106,Ataque extra,2,⚔,Mejora, + 🗡,1
+107,O ataque,2,⚔,Mejora, / 🗡,1
+108,O ataque,2,⚔,Mejora, / 🗡,1
+109,O ataque,2,⚔,Mejora, / 🗡,1
+110,O ataque,2,⚔,Mejora, / 🗡,1
+111,Defensa extra,2,⚔,Mejora, + 🛡,1
+112,Defensa extra,2,⚔,Mejora, + 🛡,1
+113,Defensa extra,2,⚔,Mejora, + 🛡,1
+114,Defensa extra,2,⚔,Mejora, + 🛡,1
+115,O defensa,2,⚔,Mejora, / 🛡,1
+116,O defensa,2,⚔,Mejora, / 🛡,1
+117,O defensa,2,⚔,Mejora, / 🛡,1
+118,O defensa,2,⚔,Mejora, / 🛡,1
+119,Ataque o defensa,3,⚔,Mejora,x 🗡 / 🛡,2
+120,Ataque o defensa,3,⚔,Mejora,x 🗡 / 🛡,2
+121,Ataque o defensa,3,⚔,Mejora,x 🗡 / 🛡,2
+122,Ataque o defensa,3,⚔,Mejora,x 🗡 / 🛡,2
+123,Ataque doble,3,⚔,Mejora, x 🗡🗡,2
+124,Ataque doble,3,⚔,Mejora, x 🗡🗡,2
+125,Ataque doble,3,⚔,Mejora, x 🗡🗡,2
+126,Ataque doble,3,⚔,Mejora, x 🗡🗡,2
+127,Defensa doble,3,⚔,Mejora, x 🛡🛡,2
+128,Defensa doble,3,⚔,Mejora, x 🛡🛡,2
+129,Defensa doble,3,⚔,Mejora, x 🛡🛡,2
+130,Defensa doble,3,⚔,Mejora, x 🛡🛡,2
+131,Contadores extras,4,⚔,Mejora,Proporciona +2 contadores,2
+132,Contadores extras,4,⚔,Mejora,Proporciona +2 contadores,2
+133,Contadores extras,4,⚔,Mejora,Proporciona +2 contadores,2
+134,Contadores extras,4,⚔,Mejora,Proporciona +2 contadores,2
+135,Y vuelve a tirar,4,⚔,Mejora,+ Tira otra vez,3
+136,Y vuelve a tirar,4,⚔,Mejora,+ Tira otra vez,3
+137,Y vuelve a tirar,4,⚔,Mejora,+ Tira otra vez,3
+138,Y vuelve a tirar,4,⚔,Mejora,+ Tira otra vez,3

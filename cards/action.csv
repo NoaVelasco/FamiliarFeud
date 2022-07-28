@@ -1,0 +1,51 @@
+id,name,cost,counter,type,effect,ki_cost
+1,De compras,1,⚡,Acción,Proporciona +1 compra,None
+2,De compras,1,⚡,Acción,Proporciona +1 compra,None
+3,De compras,1,⚡,Acción,Proporciona +1 compra,None
+4,De compras,1,⚡,Acción,Proporciona +1 compra,None
+5,Cliente insatisfecho,1,⚡,Acción,Elimina 1 carta de mercado,None
+6,Cliente insatisfecho,1,⚡,Acción,Elimina 1 carta de mercado,None
+7,Cliente insatisfecho,1,⚡,Acción,Elimina 1 carta de mercado,None
+8,Cliente insatisfecho,1,⚡,Acción,Elimina 1 carta de mercado,None
+9,Día de furia,1,⚡,Acción,Proporciona 2 ataques,None
+10,Día de furia,1,⚡,Acción,Proporciona 2 ataques,None
+11,Día de furia,1,⚡,Acción,Proporciona 2 ataques,None
+12,Día de furia,1,⚡,Acción,Proporciona 2 ataques,None
+13,Subidón de azúcar,2,⚡,Acción,Proporciona +2 acciones,None
+14,Subidón de azúcar,2,⚡,Acción,Proporciona +2 acciones,None
+15,Subidón de azúcar,2,⚡,Acción,Proporciona +2 acciones,None
+16,Subidón de azúcar,2,⚡,Acción,Proporciona +2 acciones,None
+17,Segunda oportunidad,2,⚡,Acción,Puedes volver a tirar un dado este turno,None
+18,Segunda oportunidad,2,⚡,Acción,Puedes volver a tirar un dado este turno,None
+19,Segunda oportunidad,2,⚡,Acción,Puedes volver a tirar un dado este turno,None
+20,Segunda oportunidad,2,⚡,Acción,Puedes volver a tirar un dado este turno,None
+21,El primer café,2,⚡,Acción,Proporciona +1 carta y +1 acción,None
+22,El primer café,2,⚡,Acción,Proporciona +1 carta y +1 acción,None
+23,El primer café,2,⚡,Acción,Proporciona +1 carta y +1 acción,None
+24,El primer café,2,⚡,Acción,Proporciona +1 carta y +1 acción,None
+25,Mira en tus bolsillos,2,⚡,Acción,Proporciona +2 cartas,None
+26,Mira en tus bolsillos,2,⚡,Acción,Proporciona +2 cartas,None
+27,Mira en tus bolsillos,2,⚡,Acción,Proporciona +2 cartas,None
+28,Mira en tus bolsillos,2,⚡,Acción,Proporciona +2 cartas,None
+29,Compartiendo el botín,2,⚡,Acción,Proporciona +1 compra y +1 acción,None
+30,Compartiendo el botín,2,⚡,Acción,Proporciona +1 compra y +1 acción,None
+31,Compartiendo el botín,2,⚡,Acción,Proporciona +1 compra y +1 acción,None
+32,Compartiendo el botín,2,⚡,Acción,Proporciona +1 compra y +1 acción,None
+33,Día de mercado,3,⚡,Acción,Proporciona +2 cartas y +1 acción,None
+34,Día de mercado,3,⚡,Acción,Proporciona +2 cartas y +1 acción,None
+35,Día de mercado,3,⚡,Acción,Proporciona +2 cartas y +1 acción,None
+36,Día de mercado,3,⚡,Acción,Proporciona +2 cartas y +1 acción,None
+37,Primeros de mes,3,⚡,Acción,Proporciona +1 compra y +1 contador temporal cualquiera,None
+38,Primeros de mes,3,⚡,Acción,Proporciona +1 compra y +1 contador temporal cualquiera,None
+39,Primeros de mes,3,⚡,Acción,Proporciona +1 compra y +1 contador temporal cualquiera,None
+40,Primeros de mes,3,⚡,Acción,Proporciona +1 compra y +1 contador temporal cualquiera,None
+41,Fashion victim,3,⚡,Acción,Proporciona +2 compras,None
+42,Fashion victim,3,⚡,Acción,Proporciona +2 compras,None
+43,Fashion victim,3,⚡,Acción,Proporciona +2 compras,None
+44,Fashion victim,3,⚡,Acción,Proporciona +2 compras,None
+45,Las rebajas,4,⚡,Acción,Elimina 2 cartas de mercado,None
+46,Las rebajas,4,⚡,Acción,Elimina 2 cartas de mercado,None
+47,Las rebajas,4,⚡,Acción,Elimina 2 cartas de mercado,None
+48,Lo dejo cuando quiera,4,⚡,Acción,Proporciona +3 acciones,None
+49,Lo dejo cuando quiera,4,⚡,Acción,Proporciona +3 acciones,None
+50,Lo dejo cuando quiera,4,⚡,Acción,Proporciona +3 acciones,None

@@ -1,0 +1,11 @@
+id,name,cost,counter,type,effect,ki_cost
+149,De compras,1,⚡,Acción,Proporciona +1 compra,None
+150,Cliente insatisfecho,1,⚡,Acción,Elimina 1 carta de mercado,None
+151,Día de furia,1,⚡,Acción,Proporciona 2 ataques,None
+152,Subidón de azúcar,2,⚡,Acción,Proporciona +2 acciones,None
+153,Entrenamiento básico,1,⚔,Recursos,Proporciona +1 contador temporal ⚔,None
+154,Parada básica,1,🔮,Recursos,Proporciona +1 contador temporal 🔮,None
+155,Organización básica,1,⚡,Recursos,Proporciona +1 contador temporal ⚡,None
+156,Contador extra,2,⚔,Mejora,Proporciona +1 contador,1
+157,O ataque,2,⚔,Mejora, / 🗡,1
+158,O defensa,2,⚔,Mejora, / 🛡,1

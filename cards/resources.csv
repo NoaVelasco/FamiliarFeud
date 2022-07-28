@@ -1,0 +1,47 @@
+id,name,cost,counter,type,effect,ki_cost
+51,Entrenamiento básico,1,⚔,Recursos,Proporciona +1 contador temporal ⚔,None
+52,Entrenamiento básico,1,⚔,Recursos,Proporciona +1 contador temporal ⚔,None
+53,Entrenamiento básico,1,⚔,Recursos,Proporciona +1 contador temporal ⚔,None
+54,Entrenamiento básico,1,⚔,Recursos,Proporciona +1 contador temporal ⚔,None
+55,Parada básica,1,🔮,Recursos,Proporciona +1 contador temporal 🔮,None
+56,Parada básica,1,🔮,Recursos,Proporciona +1 contador temporal 🔮,None
+57,Parada básica,1,🔮,Recursos,Proporciona +1 contador temporal 🔮,None
+58,Parada básica,1,🔮,Recursos,Proporciona +1 contador temporal 🔮,None
+59,Organización básica,1,⚡,Recursos,Proporciona +1 contador temporal ⚡,None
+60,Organización básica,1,⚡,Recursos,Proporciona +1 contador temporal ⚡,None
+61,Organización básica,1,⚡,Recursos,Proporciona +1 contador temporal ⚡,None
+62,Organización básica,1,⚡,Recursos,Proporciona +1 contador temporal ⚡,None
+63,Combate básico,2,⚔,Recursos,Proporciona +1 contador ⚔,None
+64,Combate básico,2,⚔,Recursos,Proporciona +1 contador ⚔,None
+65,Combate básico,2,⚔,Recursos,Proporciona +1 contador ⚔,None
+66,Combate básico,2,⚔,Recursos,Proporciona +1 contador ⚔,None
+67,Ki básico,2,🔮,Recursos,Proporciona +1 contador 🔮,None
+68,Ki básico,2,🔮,Recursos,Proporciona +1 contador 🔮,None
+69,Ki básico,2,🔮,Recursos,Proporciona +1 contador 🔮,None
+70,Ki básico,2,🔮,Recursos,Proporciona +1 contador 🔮,None
+71,Acción básico,2,⚡,Recursos,Proporciona +1 contador ⚡,None
+72,Acción básico,2,⚡,Recursos,Proporciona +1 contador ⚡,None
+73,Acción básico,2,⚡,Recursos,Proporciona +1 contador ⚡,None
+74,Acción básico,2,⚡,Recursos,Proporciona +1 contador ⚡,None
+75,Entrenamiento avanzado,3,⚔,Recursos,Proporciona +2 contador temporal ⚔,None
+76,Entrenamiento avanzado,3,⚔,Recursos,Proporciona +2 contador temporal ⚔,None
+77,Entrenamiento avanzado,3,⚔,Recursos,Proporciona +2 contador temporal ⚔,None
+78,Entrenamiento avanzado,3,⚔,Recursos,Proporciona +2 contador temporal ⚔,None
+79,Parada avanzada,3,🔮,Recursos,Proporciona +2 contador temporal 🔮,None
+80,Parada avanzada,3,🔮,Recursos,Proporciona +2 contador temporal 🔮,None
+81,Parada avanzada,3,🔮,Recursos,Proporciona +2 contador temporal 🔮,None
+82,Parada avanzada,3,🔮,Recursos,Proporciona +2 contador temporal 🔮,None
+83,Organización avanzada,3,⚡,Recursos,Proporciona +2 contador temporal ⚡,None
+84,Organización avanzada,3,⚡,Recursos,Proporciona +2 contador temporal ⚡,None
+85,Organización avanzada,3,⚡,Recursos,Proporciona +2 contador temporal ⚡,None
+86,Organización avanzada,3,⚡,Recursos,Proporciona +2 contador temporal ⚡,None
+87,Elección básica,3,?,Recursos,Proporciona +1 contador temporal a elegir,None
+88,Elección básica,3,?,Recursos,Proporciona +1 contador temporal a elegir,None
+89,Elección básica,3,?,Recursos,Proporciona +1 contador temporal a elegir,None
+90,Elección básica,3,?,Recursos,Proporciona +1 contador temporal a elegir,None
+91,Elección final,4,?,Recursos,Proporciona +1 contador a elegir,None
+92,Elección final,4,?,Recursos,Proporciona +1 contador a elegir,None
+93,Elección final,4,?,Recursos,Proporciona +1 contador a elegir,None
+94,Elección avanzada,4,?,Recursos,Proporciona +2 contadores temporales a elegir,None
+95,Elección avanzada,4,?,Recursos,Proporciona +2 contadores temporales a elegir,None
+96,Elección avanzada,4,?,Recursos,Proporciona +2 contadores temporales a elegir,None
